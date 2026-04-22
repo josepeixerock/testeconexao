@@ -1,0 +1,1 @@
+print("NIRVANA é melhor!")
